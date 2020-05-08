@@ -1,0 +1,10 @@
+name = "SPIRV_Headers_jll"
+uuid = "50296a37-19d4-5487-a1d5-621c23d0d175"
+version = "1.5.3+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
