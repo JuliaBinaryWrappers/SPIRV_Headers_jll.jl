@@ -1,6 +1,6 @@
 [SPIRV_Headers]
-git-tree-sha1 = "b80cd383f5c82844a01434c4b320de2c4bc5b4de"
+git-tree-sha1 = "a5442a3c0abe85aa74a261e48e0941b91d553a65"
 
     [[SPIRV_Headers.download]]
-    sha256 = "411645e2b20c489ef43c8ce87f32f90edf71f118ed94b1f979fcd0032c4d504c"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Headers_jll.jl/releases/download/SPIRV_Headers-v1.5.3+0/SPIRV_Headers.v1.5.3.any.tar.gz"
+    sha256 = "3b3cb6c5ab84c790dbe0f4f4efbee58a52c7639cfabfbb1d23e8d60c546db18d"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Headers_jll.jl/releases/download/SPIRV_Headers-v1.5.4+0/SPIRV_Headers.v1.5.4.any.tar.gz"
