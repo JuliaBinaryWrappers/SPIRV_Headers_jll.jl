@@ -1,6 +1,6 @@
 name = "SPIRV_Headers_jll"
 uuid = "50296a37-19d4-5487-a1d5-621c23d0d175"
-version = "1.5.4+0"
+version = "1.5.4+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
